@@ -15,6 +15,7 @@
 		8ACEE6EF24AE2A2400F32D5A /* SWRevealViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 8ACEE6ED24AE2A2400F32D5A /* SWRevealViewController.m */; };
 		8ACEE6F424AE2D0900F32D5A /* ChatVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8ACEE6F324AE2D0900F32D5A /* ChatVC.swift */; };
 		8ACEE6F624AE2D1900F32D5A /* ChannelVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8ACEE6F524AE2D1900F32D5A /* ChannelVC.swift */; };
+		8ACEE6F824AE493800F32D5A /* GradientView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8ACEE6F724AE493800F32D5A /* GradientView.swift */; };
 		BD833E4C455ECA910F368169 /* Pods_Smack.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F4BA8EBE30FFA6C21E095F41 /* Pods_Smack.framework */; };
 /* End PBXBuildFile section */
 
@@ -32,6 +33,7 @@
 		8ACEE6EE24AE2A2400F32D5A /* SWRevealViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SWRevealViewController.h; sourceTree = "<group>"; };
 		8ACEE6F324AE2D0900F32D5A /* ChatVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChatVC.swift; sourceTree = "<group>"; };
 		8ACEE6F524AE2D1900F32D5A /* ChannelVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChannelVC.swift; sourceTree = "<group>"; };
+		8ACEE6F724AE493800F32D5A /* GradientView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GradientView.swift; sourceTree = "<group>"; };
 		D9416841C69220576F61DB4F /* Pods-Smack.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Smack.debug.xcconfig"; path = "Pods/Target Support Files/Pods-Smack/Pods-Smack.debug.xcconfig"; sourceTree = "<group>"; };
 		F4BA8EBE30FFA6C21E095F41 /* Pods_Smack.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Smack.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
@@ -122,6 +124,7 @@
 		8ACEE6F124AE2CE000F32D5A /* View */ = {
 			isa = PBXGroup;
 			children = (
+				8ACEE6F724AE493800F32D5A /* GradientView.swift */,
 			);
 			path = View;
 			sourceTree = "<group>";
@@ -254,6 +257,7 @@
 			files = (
 				8ACEE6F424AE2D0900F32D5A /* ChatVC.swift in Sources */,
 				8ABC931E24A6297700C619BC /* AppDelegate.swift in Sources */,
+				8ACEE6F824AE493800F32D5A /* GradientView.swift in Sources */,
 				8ABC932024A6297700C619BC /* SceneDelegate.swift in Sources */,
 				8ACEE6EF24AE2A2400F32D5A /* SWRevealViewController.m in Sources */,
 				8ACEE6F624AE2D1900F32D5A /* ChannelVC.swift in Sources */,
